@@ -1,0 +1,39 @@
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+*.log
+
+# Uploads
+uploads/*.pdf
+uploads/*.PDF
+
+# Evaluation results
+eval/eval_results.json
+
+# OS
+.DS_Store
+Thumbs.db
