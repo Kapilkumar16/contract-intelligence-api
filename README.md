@@ -37,7 +37,7 @@ AI-powered contract analysis system for extracting structured data, answering qu
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/contract-intelligence-api.git
+git clone https://github.com/Kapilkumar16/contract-intelligence-api.git
 cd contract-intelligence-api
 ```
 
